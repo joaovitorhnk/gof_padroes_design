@@ -1,1 +1,1 @@
-console.log('OI')
+console.log('json');
